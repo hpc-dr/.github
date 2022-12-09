@@ -1,1 +1,1 @@
-# .github
+# AWS HPC Developer Relations
